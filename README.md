@@ -6,13 +6,13 @@ I am passionate about App and Web development, have explored Game Development a 
 
 Skills: DJANGO / REACT / JS / HTML / CSS / FLUTTER
 
-![Profile views](https://gpvc.arturio.dev/soumadipdas18)  
+
 - 🔭 I’m currently working on [live location tracking app](https://github.com/Soumadipdas18/location-tracking-app) 
 - 🌱 I’m currently learning REACT 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Soumadipdas18?tab=repositories)
 - 📫 How to reach me: [soumadipdas18@yahoo.com](mailto:soumadipdas18@yahoo.com) 
 
-
+![Profile views](https://gpvc.arturio.dev/soumadipdas18)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soumadipdas18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soumadip-das-6031631b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/soumadip.das.2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Soumadip.ds/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Soumadi71453665)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://soumadipdas18.github.io/MyPortfolio2/)  
 
 
