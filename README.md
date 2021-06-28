@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Soumadip Das
 #### A first year undergraduate student at IIT Guwahati
-![A first year undergraduate student at IIT Guwahati](https://desygner.com/design/displaypage/UAr1p93bEL4/1/c4ca4238a0b923820dcc509a6f75849b/1754)
+
 
 I am passionate about App and Web development. Have explored Game Development a bit.
 
