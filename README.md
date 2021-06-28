@@ -1,5 +1,5 @@
-<center># Hi there 👋, my name is Soumadip Das</center>
-### A first year undergraduate student at IIT Guwahati
+# Hi there 👋, my name is Soumadip Das
+## A first year undergraduate student at IIT Guwahati
 
 
 I am passionate about App and Web development. Have explored Game Development a bit.
