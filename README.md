@@ -4,7 +4,7 @@
 
 I am passionate about App and Web development, have explored Game Development a bit.
 
-Skills: DJANGO / REACT / JS / HTML / CSS / FLUTTER
+Skills: DJANGO / REACT / JS / HTML / CSS / FLUTTER / ANDROID / C#
 
 
 - 🔭 I’m currently working on [live location tracking app](https://github.com/Soumadipdas18/location-tracking-app) 
