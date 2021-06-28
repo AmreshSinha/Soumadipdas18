@@ -2,7 +2,7 @@
 ## A first year undergraduate student at IIT Guwahati
 
 
-I am passionate about App and Web development. Have explored Game Development a bit.
+I am passionate about App and Web development, have explored Game Development a bit.
 
 Skills: DJANGO / REACT / JS / HTML / CSS / FLUTTER
 
