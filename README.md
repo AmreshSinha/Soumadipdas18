@@ -1,5 +1,5 @@
 # <h1 align="center">Hi there 👋, my name is Soumadip Das</h1>
-## <h4 align="center">A first year undergraduate student at IIT Guwahati</h4>
+## <h3 align="center">A first year undergraduate student at IIT Guwahati</h3>
 
 
 I am passionate about App and Web development, have explored Game Development a bit.
